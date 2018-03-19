@@ -1,4 +1,6 @@
 # hello-world
-totally rookie\t
-use Matlab to learn neural networks now\t
+totally rookie.
+
+use Matlab to learn neural networks now.
+
 I hope I could have time in the coming summer holiday to study Python!
